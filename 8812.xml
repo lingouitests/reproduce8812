@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<properties>
+    <resource name="key1>
+       <value>This is the value that will be translated</value>
+    </resource>
+</properties>
